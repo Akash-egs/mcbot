@@ -1,0 +1,5 @@
+{
+    "name": "MinecraftBotNodejs",
+    "description": "Minecraft Nodejs Bot", 
+    "runtime": "nodejs14.x",
+}
